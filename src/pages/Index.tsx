@@ -22,7 +22,7 @@ const Index = () => {
             size="lg" 
             className="text-lg px-12 py-7 rounded-none font-semibold hover:scale-105 transition-transform"
           >
-            Создать фото
+            Паблик ВК
           </Button>
         </div>
       </section>
