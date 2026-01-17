@@ -15,7 +15,7 @@ const Index = () => {
           </h1>
           
           <p className="text-xl md:text-2xl text-muted-foreground mb-12 max-w-2xl mx-auto font-light">
-            Генерация изображений по промпту
+            Зайди в услуги и нажми написать
           </p>
           
           <Button 
