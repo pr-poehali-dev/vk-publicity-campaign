@@ -9,7 +9,7 @@ const Index = () => {
         
         <div className="max-w-5xl mx-auto text-center relative z-10 animate-fade-in">
           <h1 className="text-7xl md:text-9xl font-black mb-8 leading-none tracking-tight">
-            СОЗДАЮ
+            ОБРАБОТКА
             <br />
             <span className="text-primary">ФОТО</span>
           </h1>
