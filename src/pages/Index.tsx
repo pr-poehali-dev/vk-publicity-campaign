@@ -21,6 +21,7 @@ const Index = () => {
           <Button 
             size="lg" 
             className="text-lg px-12 py-7 rounded-none font-semibold hover:scale-105 transition-transform"
+            onClick={() => window.open('https://vk.ru/pixelfix_editphoto', '_blank')}
           >
             Паблик ВК
           </Button>
