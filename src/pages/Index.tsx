@@ -8,7 +8,7 @@ const Index = () => {
         <div className="absolute bottom-40 left-10 w-96 h-96 rounded-full border border-black opacity-5"></div>
         
         <div className="max-w-5xl mx-auto text-center relative z-10 animate-fade-in">
-          <h1 className="text-7xl md:text-9xl font-black mb-8 leading-none tracking-tight">
+          <h1 className="text-6xl md:text-9xl font-black mb-8 leading-none tracking-tight">
             ОБРАБОТКА
             <br />
             <span className="text-primary">ФОТО</span>
